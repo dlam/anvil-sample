@@ -1,0 +1,13 @@
+# Gradle
+.gradle
+build
+/reports
+local.properties
+
+# Idea
+.idea/*
+!.idea/codeStyles
+*.iml
+
+*.hprof
+
